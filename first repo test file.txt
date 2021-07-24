@@ -2,3 +2,6 @@ This is a test .txt file I'm uploading to my first github repo. So far this look
 
 
 This is an edit
+
+
+edit using cloned repo on my machine
